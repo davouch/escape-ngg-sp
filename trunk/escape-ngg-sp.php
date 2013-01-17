@@ -13,7 +13,11 @@
  *
  * Instructions: This is WIP fork - Backup! Activate the plugin and browse to 
  * yourdomain.com/wp-admin/?escape_ngg_sp_please=1
- * When you're done you can delete the gallery dir, and the wp_ngg_* tables in your database. Keep the backups though.
+ * When you're done you can delete the gallery dir, and the wp_ngg_* tables in your database.
+ * Keep the backups though.
+ * This is a first working version (works with wp3.5 patched!) …
+ * Tested with current revision (23302) of wp.org and patch 16330.3.diff
+ * applied.  * http://core.trac.wordpress.org/attachment/ticket/16330/16330.3.diff
  *
  * Limitations: 
  * - does not recognize nor solve:
